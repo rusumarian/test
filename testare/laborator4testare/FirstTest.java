@@ -21,6 +21,7 @@ public class FirstTest {
 	@Test
 	public void test() {
 		//fail("Not yet implemented");
+		System.out.println("merge bine");
 	}
 	
 	@Test
